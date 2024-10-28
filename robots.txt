@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://haqow.github.io/Rtz/sitemap.Rtz
